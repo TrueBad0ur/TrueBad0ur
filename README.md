@@ -16,5 +16,7 @@ Here's my little collection of projects which you can find on my github:</br></b
 
 ### Links
 
-Library - https://図書館.きく.コム </br>
-Blog with articles - https://ブログ.きく.コム </br>
+Library - [図書館.きく.コム](https://図書館.きく.コム) </br>
+Blog with articles - [ブログ.きく.コム](https://ブログ.きく.コム) </br>
+Reverse Engineering TG channel - [t.me/reverse_dungeon](https://t.me/reverse_dungeon) </br>
+Cloud/DevOps TG channel - [t.me/cloud_dungeon](https://t.me/cloud_dungeon) </br>

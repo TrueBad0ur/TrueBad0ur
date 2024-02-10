@@ -3,7 +3,8 @@ My name is Andy and I'm pretty interested in reverse engineering and devops/clou
 Here's my little collection of projects which you can find on my github:</br></br>
 
 [SSH honeypot](https://github.com/TrueBad0ur/ssh-honeypot) - ssh honeypot in docker, that logs commands and creds to SQLite</br>
-[My Jekyll Blog](https://github.com/TrueBad0ur/myjekyllblog) - my website on jekyll - rust static web generator</br>
+[My Jekyll Blog](https://github.com/TrueBad0ur/myjekyllblog) - my blog with articles on jekyll - rust static web generator</br>
+[My Hugo Blog](https://github.com/TrueBad0ur/myhugoblog) - my navigating one-pager on hugo - go static web generator</br>
 [libreasy](https://github.com/TrueBad0ur/libreasy) - my simple html library</br>
 [NixOS config](https://github.com/TrueBad0ur/nixosconfig) - my currently being used nixos config</br>
 [k8s vk cloud](https://github.com/TrueBad0ur/vkcloud_kubernetes) - setup for k8s cluster in vk cloud with nginx ingress controller</br>

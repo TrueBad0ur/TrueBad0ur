@@ -7,6 +7,7 @@ Here's my little collection of projects which you can find on my github:</br></b
 [My Hugo Blog](https://github.com/TrueBad0ur/myhugoblog) - my navigating one-pager on hugo - go static web generator</br>
 [libreasy](https://github.com/TrueBad0ur/libreasy) - my simple html library</br>
 [NixOS config](https://github.com/TrueBad0ur/nixosconfig) - my currently being used nixos config</br>
+[DNS AdsBlocker](https://github.com/TrueBad0ur/AdsBlocker-DNS-BIND9) - DNS server with blocking ads config</br>
 [k8s vk cloud](https://github.com/TrueBad0ur/vkcloud_kubernetes) - setup for k8s cluster in vk cloud with nginx ingress controller</br>
 [StressTester](https://github.com/TrueBad0ur/StressTester) - DOS stress tester via apache benchmark with yandex cloud/vk cloud terraform and ansible configs</br>
 [decode kaspersky quarantine files](https://github.com/TrueBad0ur/dexor_kaspersky_qauarantine_files) - script to decode files, which were taken from kaspersky quarantine folder</br>

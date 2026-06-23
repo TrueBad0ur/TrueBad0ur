@@ -5,9 +5,14 @@ Here's my little collection of projects which you can find on my github:</br></b
 [Local raspberry kuber cluster](https://github.com/TrueBad0ur/local-raspberry-kube-cluster) - local multi-node raspberry pi k3s cluster and many configs</br>
 [Practice materials for CKS](https://github.com/TrueBad0ur/cks-labs) - practice materials for the Certified Kubernetes Security Specialist (CKS) exam</br>
 [Simple k8s UI RBAC management](https://github.com/TrueBad0ur/kubevalet) - Lightweight Kubernetes user management with a web UI</br>
+[My CLAUDE.md system prompt](https://github.com/TrueBad0ur/my_claude_setup) - My system prompt for Claude</br>
+[Amneziawg openbsd kernel driver](https://github.com/TrueBad0ur/awg-openbsd-kernel) - Kernel driver for amneziawg in openbsd</br>
+[OpenBSD dotfiles / system setup](https://github.com/TrueBad0ur/openbsd-configs) - Automatical system setup and dotfiles for my OpenBSD's</br>
 [Daily habits Telegram Mini App tracker](https://github.com/TrueBad0ur/habits-tracker) - Telegram Mini App bot for tracking daily habits in group chats - shared calendar, streaks, achievements, leaderboard, and subscription management</br>
 [Selfhosted Music Server](https://github.com/TrueBad0ur/selfhosted-music-server) - self-hosted music server based on Navidrome with AudioMuse-AI integration for library analysis, instant mix, and similar track discovery</br>
+[ViewVC adoption for docker](https://github.com/TrueBad0ur/viewvc) - Docker compose and image build for ViewVC</br>
 [SSH honeypot](https://github.com/TrueBad0ur/ssh-honeypot) - ssh honeypot in docker, that logs commands and creds to SQLite</br>
+[BGP GNS3 Lab](https://github.com/TrueBad0ur/bgp-gns3-lab) - Description for BGP Lab in GNS3</br>
 [My Jekyll Blog](https://github.com/TrueBad0ur/myjekyllblog) - my blog with articles on jekyll - rust static web generator</br>
 [My Hugo Blog](https://github.com/TrueBad0ur/myhugoblog) - my navigating one-pager on hugo - go static web generator</br>
 [libreasy](https://github.com/TrueBad0ur/libreasy) - my simple html library</br>

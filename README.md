@@ -4,6 +4,8 @@ Here's my little collection of projects which you can find on my github:</br></b
 
 [Local raspberry kuber cluster](https://github.com/TrueBad0ur/local-raspberry-kube-cluster) - local multi-node raspberry pi k3s cluster and many configs</br>
 [Practice materials for CKS](https://github.com/TrueBad0ur/cks-labs) - practice materials for the Certified Kubernetes Security Specialist (CKS) exam</br>
+[JAP Library with OCR conversion](https://github.com/TrueBad0ur/yomekuro) - self-hosted library for manga/ranobe/pdf etc with automatic via mokuro OCR conversion</br>
+[RU-JP warodai dictionary automation for yomitan](https://github.com/TrueBad0ur/warodai-yomitan-jp) - scripts to automatically create right format archive for yomitan from RU-JP warodai dictionary</br>
 [Simple k8s UI RBAC management](https://github.com/TrueBad0ur/kubevalet) - Lightweight Kubernetes user management with a web UI</br>
 [My CLAUDE.md system prompt](https://github.com/TrueBad0ur/my_claude_setup) - My system prompt for Claude</br>
 [Amneziawg openbsd kernel driver](https://github.com/TrueBad0ur/awg-openbsd-kernel) - Kernel driver for amneziawg in openbsd</br>
